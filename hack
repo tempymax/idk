@@ -14,7 +14,7 @@ score = score + 1
  document.getElementById("scoreBar0").innerText = score ;
 }, 1);};
 
-alert("YOU ARE USING I_T_HackCentral's ML CHEAT! ENJOY!")
+alert("This Is A Dheen Hack MAX I Like Apple")
 
 var btn = document.createElement("BUTTON");
     document.body.appendChild(btn);
